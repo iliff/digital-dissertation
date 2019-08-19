@@ -30,15 +30,12 @@ If you do not already have an account, [Create GitHub account](https://github.co
     
 ## Setup Repository for GitHub Pages
 
-* create docs directory that will hold GitHub pages
-    * click **Create New File** button on main code page of repo
-    * in the *Name your file...* box at top of page type 'docs/' - this will signal that you want a new directory.
-    * In the new box that is provided, type 'index.md'. This file will become the home page for your github pages site. 
-    * Add a commit note that says something like "Add docs directory and index page", check commit directly to master branch and click commit new file
 * Go to the settings tab of the repository
 * Feel free to change any settings in this page to suit your needs. Here are the key settings to get github pages running. 
 * In the GitHub pages section set GitHub pages to run from master/docs folder
 * Click Choose theme and then choose the theme you want from the list and click select theme (you can always get a different theme later)
+    * This template assumes the [minimal theme](https://github.com/pages-themes/minimal)
+    * If you choose a different theme, you may need to edit the default layout file or even remove it. 
 
 ## Configure GitHub Pages
 
