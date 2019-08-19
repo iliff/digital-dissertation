@@ -46,3 +46,8 @@ If you do not already have an account, [Create GitHub account](https://github.co
 
 * Try to connect to the URL listed in your repo settings in the GitHub pages section. It should load an empty page with some generic repository information. 
 
+
+## Create Your First Post
+
+[Posts in Jekyll](https://jekyllrb.com/docs/posts/)
+
