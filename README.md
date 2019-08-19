@@ -18,10 +18,9 @@ If you do not already have an account, [Create GitHub account](https://github.co
 * Click **Use this template**
 * Follow the [Create a repository from template](https://help.github.com/en/articles/creating-a-repository-from-a-template) instructions
 * give your repo a name
-* choose private for repo (public if you don't care about ur drafts being 
-    * ? Should i encourage people to get free PRO account and make repo private with pages public? 
-    * ? Should we encourage public repo with reflections on work along the way with drafts of publishable writing only stored locally? 
-    * ? Should we use just private repo and invite committee members to view progress there with Gists used to release any public bits along the way?
+* choose private for repo
+    * You will need a PRO account to have a private repository with a public github pages instance (free for students) 
+    * You can leave repository public if you don't mind having your drafts accessible by public. You do not have to serve up these drafts on the website.
 * check to initialize with README
 * leave .gitignore None for now
 * choose license
