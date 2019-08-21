@@ -8,9 +8,9 @@ Here, you can give a brief outline of the project or even just post your abstrac
 
 ### Participants (Commitee Members)
 
-List any additional participants in the project and link to their social or professional profiles here[^1].
+List any additional participants in the project and link to their social or professional profiles here[^test].
 
-[^1]: This is a test note.
+[^test]: This is a test note.
 
 ### Link to Zotero for bibliography
 
